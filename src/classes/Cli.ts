@@ -297,7 +297,6 @@ class Cli {
           // Call the tow method on the truck, passing the full vehicle object
           truck.tow(selectedVehicle);
         }
-
       // Continue with other actions
       this.performActions();
     });
@@ -305,7 +304,9 @@ class Cli {
 
     //this method preforms a wheelie
     wheelie(motorbike: Motorbike): void {
-      console.log(`Motorbike ${motorbike.make} ${motorbike.model} is doing a wheelie!`)
+      console.log(`Motorbike ${motorbike.make} ${motorbike.model} is doing a wheelie!`);
+            // Continue with other actions
+            this.performActions();
     }
   
 

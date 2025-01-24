@@ -37,6 +37,8 @@ To install this application, please download the project folders and enter 'npm 
 ## Usage
 The best way to use this project is through your CLI prompts. By answering the questions, this system will generate response to how the vehicles respond. You can continue to loop through the different options until you decide to exit the application.
 
+Link to video walkthrough: (https://westerngovernorsuniversity-my.sharepoint.com/:v:/r/personal/khookha_wgu_edu/Documents/Vehicle_App.webm?csf=1&web=1&e=im3ozK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+
 ## Credits
 I have utilized the resources from edX Boot Camps LLC., including a starter code package.
 
